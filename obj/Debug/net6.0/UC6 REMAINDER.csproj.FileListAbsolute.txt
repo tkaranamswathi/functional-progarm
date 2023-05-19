@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC6 REMAINDER\bin\Debug\net6.0\UC6 REMAINDER.exe
+C:\Users\swath\source\repos\UC6 REMAINDER\bin\Debug\net6.0\UC6 REMAINDER.deps.json
+C:\Users\swath\source\repos\UC6 REMAINDER\bin\Debug\net6.0\UC6 REMAINDER.runtimeconfig.json
+C:\Users\swath\source\repos\UC6 REMAINDER\bin\Debug\net6.0\UC6 REMAINDER.dll
+C:\Users\swath\source\repos\UC6 REMAINDER\bin\Debug\net6.0\UC6 REMAINDER.pdb
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.dll
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\refint\UC6 REMAINDER.dll
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.pdb
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\UC6 REMAINDER.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC6 REMAINDER\obj\Debug\net6.0\ref\UC6 REMAINDER.dll
