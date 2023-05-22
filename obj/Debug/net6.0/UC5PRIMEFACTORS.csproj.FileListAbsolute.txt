@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\bin\Debug\net6.0\UC5PRIMEFACTORS.exe
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\bin\Debug\net6.0\UC5PRIMEFACTORS.deps.json
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\bin\Debug\net6.0\UC5PRIMEFACTORS.runtimeconfig.json
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\bin\Debug\net6.0\UC5PRIMEFACTORS.dll
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\bin\Debug\net6.0\UC5PRIMEFACTORS.pdb
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.dll
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\refint\UC5PRIMEFACTORS.dll
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.pdb
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\UC5PRIMEFACTORS.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC5PRIMEFACTORS\obj\Debug\net6.0\ref\UC5PRIMEFACTORS.dll
