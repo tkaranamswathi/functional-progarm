@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC3POWEROF2\bin\Debug\net6.0\UC3POWEROF2.exe
+C:\Users\swath\source\repos\UC3POWEROF2\bin\Debug\net6.0\UC3POWEROF2.deps.json
+C:\Users\swath\source\repos\UC3POWEROF2\bin\Debug\net6.0\UC3POWEROF2.runtimeconfig.json
+C:\Users\swath\source\repos\UC3POWEROF2\bin\Debug\net6.0\UC3POWEROF2.dll
+C:\Users\swath\source\repos\UC3POWEROF2\bin\Debug\net6.0\UC3POWEROF2.pdb
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.dll
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\refint\UC3POWEROF2.dll
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.pdb
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\UC3POWEROF2.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC3POWEROF2\obj\Debug\net6.0\ref\UC3POWEROF2.dll
